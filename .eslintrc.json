@@ -1,0 +1,4 @@
+dependcis:
+
+
+npm install express mongoose dotenv cors body-parser
